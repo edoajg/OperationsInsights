@@ -1,0 +1,94 @@
+,PO Sl.No,DESCRIPTION,Qty,Qty Ad1,Qty Ad2,Qty Ad3,Unit,Rate,Amount(CLP),EDP1 anticipo F. 70,EDP2 F. 71,EDP3 F.72,EDP04 F. 73-74,EDP5 F. 78,EDP6 F. 83,EDP7 F. 84,EDP8  F. 90,EDP 08B,EDP9 F. 86,EDP10,EDP11 F. 98,EDP12 F. 92,EDP13 F. 99,EDP14 F. 105,EDP15 F. 106,Cumilative,Balance/Short Close,HH Boom Truck
+0,10,"Installation, testing and commissioning of String combiner box (19inputs) with wireless monitoring","220,0","108,0",,,nos,59.520,13.094.400,,,,,"130,0","62,0","28,0","76,0",,,,,"32,0",,,,3280.0,"0,0",0.0
+1,20,"Installation, testing and commissioning of Loose MC4 Male & Female connector for String termination on SCB & Module end.","8.360,0",,"8.360,0",,st,531,4.439.160,,,,,,"6.632,0","1.728,0",,,,,"1.158,0",,,"2.391,0",,11.909,"4.811,0",0.0
+2,30,"Installation, testing and commissioning of TBEA inverter","10,0",,"10,0",,st,2.295.705,22.957.050,,,,,,,"10,0",,,,,"10,0",,,,,200.0,"0,0",0.0
+3,40,"Installation, testing and commissioning 8.25 MVA-ONAN Transformer","5,0",,"5,0",,NOS,2.418.000,12.090.000,,,,,,"1,5",,"3,0",,,,,"0,5",,,,50.0,"5,0",0.0
+4,50,"Installation, testing and commissioning 4.125 MVA-ONAN Transformer","1,0",,,,nos,2.418.000,2.418.000,,,,,,,,,,,,,,,,,0.0,"1,0",0.0
+5,60,"Installation, testing and commissioning 10 kVA-ONAN Transformer","3,0","2,0",,,NOS,1.041.600,3.124.800,,,,,,,,,,,,,"5,0",,,,50.0,"0,0",0.0
+6,70,RMU # 1 breaker and 1 Isolator,"3,0","6,0",,,NOS,2.292.450,6.877.350,,,,,"3,0",,,"3,0",,,,,"3,0",,,,90.0,"0,0",2.0
+7,80,RMU # 1 breaker and 2 Isolator,"3,0","6,0",,,NOS,2.292.450,6.877.350,,,,,"3,0",,,"3,0",,,,,"3,0",,,,90.0,"0,0",2.0
+8,90,UPS (1X100%) 2kVA with Main + Bypass & S,"5,0","7,0",,,st,678.900,3.394.500,,,,,,,"4,0",,,,,,"8,0",,,,120.0,"0,0",0.0
+9,100,LT Distribution Board for inverter stati Inverter Station Building,"5,0","7,0",,,NOS,176.700,883.500,,,,,,,"4,0",,,,,,"8,0",,,,120.0,"0,0",0.0
+10,110,UPS Distribution Boards for Inverter Station,"5,0","7,0",,,NOS,176.700,883.500,,,,,,,"4,0",,,,,,"8,0",,,,120.0,"0,0",0.0
+11,120,SCADA's PLC Panel for Inverter Sation,"5,0","9,0",,,NOS,176.700,883.500,,,,,,,"4,0",,,"10,0",,,,,,,140.0,"0,0",0.0
+12,130,Tracker SCADA's PLC Panel for Inverter Sation,"5,0",,,,nos,176.700,883.500,,,,,,,,,,,,,,,,,0.0,"5,0",0.0
+13,140,MCCB box for Auxiliary transformer,"3,0","9,0",,,nos,176.700,530.100,,,,,,,"2,0",,,,,,"5,0",,,,70.0,"5,0",0.0
+14,150,4sqmm cable jumper with 1000mm length wi,"2.638,0","1.454,0",,,nos,533,1.406.054,,,,,,"1.380,0","1.258,0",,,,,,"1.454,0",,,,4.092,"0,0",0.0
+15,160,1.5kV 1Cx4 sq.mm String Cable,"220.000,0","22.554,0","220.000,0",,mtr,434,95.480.000,,,"14.656,0","58.110,0","77.364,0","69.870,0",,"22.554,0",,,,"38.200,0",,,"53.290,0",,334.044,"128.510,0",0.0
+16,170,Cable Ties Installation testing and commissioning,"1,0",,,,lt,14.880.000,14.880.000,,,,,"0,4","0,2","0,2",,,,,,,,,,8.0,"0,2",0.0
+17,180,Supply and installation of Cable Ties,"1,0",,,,ST,6.417.000,6.417.000,,,,,"0,4","0,2","0,2",,,,,,,,,,8.0,"0,2",0.0
+18,190,Cable (1Cx400sq mm) from String Combiner,"97.500,0",,,,mtr,1.185,115.537.500,,"29.587,0","39.452,0","25.707,0",,,,,,,,,,,,,94.746,"2.754,0",0.0
+19,200,"Cable termination of 1.8/3.0kV 400Sqmm Al Cable,","880,0",,,,nos,2.325,2.046.000,,,,,,"432,0","232,0",,,"216,0",,,,,,,8800.0,"0,0",0.0
+20,210,Cable from Inverter to Inverter Transfor,"3.964,0","2.516,0",,,mtr,1.185,4.697.340,,,,,,,"3.888,0",,,,,,"2.592,0",,,,6.48,"0,0",0.0
+21,220,Supply & Installation of Trefoil Clamps,"667,0",,,,nos,1.185,790.395,,,,,,,,,,,,,"600,0",,,,6000.0,"67,0",0.0
+22,230,Cable termination of above cable at inverter end.,"257,0",,"257,0",,nos,3.366,865.062,,,,,,,,,,"243,0",,"162,0",,,,,4050.0,"109,0",0.0
+23,240,Cable termination of above cable at transformer end,"257,0",,"257,0",,nos,3.366,865.062,,,,,,,,,,"243,0",,"162,0",,,,,4050.0,"109,0",0.0
+24,250,Cable from Inverter Transformer to Ring Main Unit (RMU),"360,0",,,,mtr,1.293,465.480,,,,,,,,,,,,,,,,,0.0,"360,0",0.0
+25,260,Supply and installation of Trefoil Clamps for above 1Cx240 sq.mm. MV Cable (Trefoil Clamps details need to approved from SWSL),"66,0",,,,nos,1.237,81.642,,,,,,,,,,,,,,,,,0.0,"66,0",0.0
+26,270,4C X 4 Sqmm Cu. (XLPE PVC) for power tr,"250,0",,,,MTR,949,237.250,,,,,,,,,,,,,,,,,0.0,"250,0",0.0
+27,280,4C X 35 Sqmm Cu. (XLPE PVC),"1.125,0",,,,mtr,1.208,1.359.000,,,,,,,,,,,,,,,,,0.0,"1.125,0",0.0
+28,290,4C X 70 Sq.mm Al XLPE Aux Cable,"500,0",,,,mtr,2.415,1.207.500,,,,,,,,,,,,,,,,,0.0,"500,0",0.0
+29,300,1C X 6 Sq.mm CU Flexible Aux Cable,"63,0",,,,mtr,949,59.787,,,,,,,,,,,,,,,,,0.0,"63,0",0.0
+30,310,4 C X 70Sqmm Al. Cable,"5,0",,,,nos,5.525,27.625,,,,,,,,,,,,,,,,,0.0,"5,0",0.0
+31,320,4 C X 6 Sqmm Cu. Cable,"30,0",,,,nos,1.727,51.810,,,,,,,,,,,,,,,,,0.0,"30,0",0.0
+32,330,4 C X 4 Sqmm Cu. Cable,"38,0",,,,nos,1.727,65.626,,,,,,,,,,,,,,,,,0.0,"38,0",0.0
+33,340,4C X 35 Sqmm Cu. Cable,"44,0",,,,nos,2.763,121.572,,,,,,,,,,,,,,,,,0.0,"44,0",0.0
+34,350,19 C x 2.5 Sqmm Copper Cable,"1.250,0",,,,mtr,1.122,1.402.500,,,,,,,,,,"280,0",,,,,,,2800.0,"970,0",0.0
+35,360,12 C x 2.5 Sqmm Copper Cable,"125,0","50,0",,,mtr,1.122,140.250,,,,,,,,,,"175,0",,,,,,,1750.0,"0,0",0.0
+36,370,7C x 2.5 Sqmm. Copper Cable,"125,0",,,,mtr,864,108.000,,,,,,,,,,,,,,,,,0.0,"125,0",0.0
+37,380,5C x 2.5 Sqmm. Copper Cable,"375,0",,,,mtr,864,324.000,,,,,,,,,,"150,0",,,,,,,1500.0,"225,0",0.0
+38,390,3C x 2.5 Sqmm. Copper cable,"375,0","1.150,0",,,mtr,864,324.000,,,,,,,,,,"1.525,0",,,,,,,1.525,"0,0",0.0
+39,400,2C x 2.5 Sqmm. Copper cable,"125,0",,,,mtr,864,108.000,,,,,,,,,,,,,,,,,0.0,"125,0",0.0
+40,410,19 C x 2.5 Sqmm Copper Cable,"21,0",,,,nos,16.398,344.358,,,,,,,,,,"20,0",,,,,,,200.0,"1,0",0.0
+41,420,16 C x 2.5 Sqmm Copper Cable,"23,0",,,,nos,13.809,317.607,,,,,,,,,,,,,,,,,0.0,"23,0",0.0
+42,430,12 C x 2.5 Sqmm Copper Cable,"28,0","0,0",,,nos,10.357,289.996,,,,,,,,,,"10,0",,,,,,,100.0,"18,0",0.0
+43,440,10C x 2.5 Sqmm. Copper Cable,"50,0",,,,nos,8.631,431.550,,,,,,,,,,,,,,,,,0.0,"50,0",0.0
+44,450,7C x 2.5 Sqmm. Copper Cable,"43,0",,,,nos,6.042,259.806,,,,,,,,,,,,,,,,,0.0,"43,0",0.0
+45,460,5C x 2.5 Sqmm. Copper Cable,"33,0",,,,nos,4.316,142.428,,,,,,,,,,,,,,,,,0.0,"33,0",0.0
+46,470,3C x 2.5 Sqmm. Copper cable,"52,0","98,0",,,nos,4.316,224.432,,,,,,,,,,"248,0",,,,,,,2480.0,"-98,0",0.0
+47,480,2C x 2.5 Sqmm. Copper cable,"75,0",,,,nos,3.720,279.000,,,,,,,,,,,,,,,,,0.0,"75,0",0.0
+48,490,1000 mm wide ladder tray Ladder type (In,"214,0",,,,mtr,17.248,3.691.072,,,,,,,,,,,,,"60,0",,,,600.0,"154,0",0.0
+49,500,450 mm wide ladder tray (inverter room AC cable),"28,0",,,,mtr,11.953,334.684,,,,,,,,,,,,,,,,,0.0,"28,0",0.0
+50,510,300 mm wide tray perforated type below S,"185,0",,,,mtr,8.964,1.658.340,,,,,,,,,,,,,,,,,0.0,"185,0",0.0
+51,520,Cable tray supports,"1.208,0",,,,kg,3.813,4.606.104,,,,,,,,,,,,,,,"114,0",,1140.0,"1.094,0",0.0
+52,530,Copper plate earthing for SCADA Panel,"6,0",,,,nos,18.124,108.744,,,,,,,,,,,,,,,,,0.0,"6,0",0.0
+53,540,Premix Marconite earthing pit with all accessories,"133,0",,"80,0",,nos,23.537,3.130.421,,,,,"75,0",,,,,,,"80,0",,,"58,0",,2130.0,"0,0",0.0
+54,550,"35 sq mm , bare copper, multi staranded","6.300,0","2.623,0",,,mtr,647,4.076.100,,"1.717,0","4.392,0","191,0",,,,,,"2.623,0",,,,,,,8.923,"0,0",0.0
+55,560,"35 sq mm , PVC CU Cable, multi staranded","8.750,0",,,,mtr,647,5.661.250,,,,,,"4.063,0",,,,"1.522,0",,,,,"2.922,0",,8.507,"243,0",0.0
+56,570,1C x 25 sqmm Cu (GRN/YEL) PVC Flexible,"500,0",,,,mtr,647,323.500,,,,,,,,,,,,,"216,0",,,,2160.0,"284,0",0.0
+57,580,"95 sq mm , bare copper, multi staranded,","1.500,0",,,,mtr,994,1.491.000,,,,,,,,,,,,,"128,0",,,,1280.0,"1.372,0",0.0
+58,590,1C x 185 sqmm Cu (GRN/YEL) PVC Flexible,"200,0","4,0",,,mtr,1.560,312.000,,,,,,,,,,,,,"204,0",,,,2040.0,"0,0",0.0
+59,600,Exothermic welding of grid conductors as per Earthing drawing(T-Type),"970,0","18,0",,,nos,3.939,3.820.830,,"205,0","586,0","22,0",,,,,,"175,0",,,,,,,9880.0,"0,0",0.0
+60,610,Exothermic welding of grid conductors as per Earthing drawing(4-Way,"1.151,0",,,,nos,3.940,4.534.940,,,,,,,,,,,,,,,,,0.0,"1.151,0",0.0
+61,620,"Copper Lugs along with nut, blot and washer suitable to connect 25 Sq.mm cable","502,0",,,,nos,1.229,616.958,,,,,,,,,,"478,0",,,,,,,4780.0,"24,0",0.0
+62,630,"Copper Lugs along with nut, blot and washer suitable to connect 35 Sq.mm,","5.594,0",,,,nos,1.228,6.869.432,,,,,"738,0","1.250,0",,,,"1.842,0",,,,,"974,0",,4.804,"790,0",0.0
+63,640,"Copper Lugs along with nut, blot and washer suitable to connect 95 Sq.mm","60,0",,,,nos,2.330,139.800,,,,,,,,,,,,,,,,,0.0,"60,0",0.0
+64,650,"Copper Lugs along with nut, blot and washer suitable to connect 185 Sq.mm","19,0",,,,nos,2.604,49.476,,,,,,,,,,,,,,,,,0.0,"19,0",0.0
+65,660,Lightning arrestor installtion on 5Meter,"5,0",,,,st,576.600,2.883.000,,,,,,,,,,,,,,,,,0.0,"5,0",0.0
+66,670,GI Street light pole and single arm (5 m,"16,0",,,,nos,576.600,9.225.600,,,,,,,,,,,,,"6,0",,,,60.0,"10,0",0.0
+67,680,"Rubber mat for LT, HT panel, inverter transformer","1,0",,,,lot,2.166.900,2.166.900,,,,,,,,,,,,,,,,,0.0,"1,0",0.0
+68,690,Danger and other notice boards ,"1,0",,,,lot,2.604.000,2.604.000,,,,,,,,,,,,,,,,,0.0,"1,0",0.0
+69,700,Safety instruction charts,"1,0",,,,lot,1.488.000,1.488.000,,,,,,,,,,,,,,,,,0.0,"1,0",0.0
+70,710,DC Cable Tag (From SCB to Inverter),"1.281,0","375,0",,,nos,1.295,1.658.895,,,,,,,,,,,,,"1.656,0",,,,1.656,"0,0",0.0
+71,720,Structure/array Tags,"1.326,0",,,,st,1.727,2.290.002,,,,,,,,,,,,,,,,,0.0,"1.326,0",0.0
+72,730,PU Foam (for conduit opening and SS cable entry),"1,0",,,,lot,1.962.300,1.962.300,,,,,,,,,,"1,0",,,,,,,10.0,"0,0",0.0
+73,740,"Installation, testing and commissioning WMS including Soiling Station (Weather Monitoring Station with Soil Monitoring Station )","4,0",,,,st,1.395.000,5.580.000,,,,,,,,,,,,,,,,,0.0,"4,0",0.0
+74,750,CAT6 (STP)moulded RJ45 port LAN cable,"750,0",,,,mtr,1.302,976.500,,,,,,,,,,,,,,,"375,0",,3750.0,"375,0",0.0
+75,760,"Installation ,testing and commissioning of RF reciever","6,0",,,,nos,832.350,4.994.100,,,,,,,,,,,,,,,,,0.0,"6,0",0.0
+76,770,Installation of conduit (200 mm dia ),"1,0",,,,lot,7.254.000,7.254.000,,,"0,6","0,4",,,,,,,,,,,,,10.0,"0,0",0.0
+77,780,Supply and installation of of DWC HDPE P,"21.250,0",,,,mtr,521,11.071.250,,,"8.622,0","11.197,0",,,,,,,,,,,,,19.819,"1.431,0",0.0
+78,790,"Empalme en baja tension, Dc cable AL 400mm (Joint LV cable)",,,,"53,0",nos,25.000,1.325.000,,,,,,,,,,,,,,,,"53,0",530.0,"0,0",0.0
+79,800,Conexiï¿½n MV Cable RMU (LCL y LC) ,,,,"20,0",st,310.500,6.210.000,,,,,,,,,,,,,,"19,0",,,190.0,"1,0",0.0
+80,810,Conexiï¿½n MV Cable IDT Transformador,,,,"20,0",NOS,387.000,7.740.000,,,,,,,,,,,,,,"15,0",,"5,0",200.0,"0,0",0.0
+81,820,"Seriado Simple de Modulo, conexiï¿½n de serie de  (3 Block) ",,,,"66.000,0",mtr,100,6.600.000,,,,,,,,,,,,,,,,"64.512,0",64.512,"1.488,0",0.0
+82,830,Amarrado de Cables del seriado de modulos,,,,"66.000,0",nos,100,6.600.000,,,,,,,,,,,,,,,,"64.512,0",64.512,"1.488,0",0.0
+83,840,Straight through joint Kit Mufa de Empalme MV cable,,,,"10,0",nos,192.000,1.920.000,,,,,,,,,,,,,,"5,0",,,50.0,"5,0",0.0
+84,850,Filtrado de transformadores Adicionales,,,,"5,0",nos,3.000.000,15.000.000,,,,,,,,,,,,,,"5,0",,,50.0,"0,0",0.0
+85,860,Ensamblaje de Transformadores con detalles (Instalados Iprocel),,,,"5,0",nos,1.035.000,5.175.000,,,,,,,,,,,,,,"5,0",,,50.0,"0,0",0.0
+86,870,Soldadura de Topes sismicos IDT (4 Unid. Por IDT),,,,"20,0",nos,450.000,9.000.000,,,,,,,,,,,,,,"10,0",,"10,0",200.0,"0,0",0.0
+87,880,Mecanizado de SMB,,,,"60,0",mtr,22.400,1.344.000,,,,,,,,,,,,,,"44,0",,,440.0,"16,0",0.0
+88,890,Pilotado de concreto SMB,,,,"20,0", ,102.000,2.040.000,,,,,,,,,,,,,,"11,0",,,110.0,"9,0",0.0
+89,900,Zanja 0.4x0.4x2 mts Conexiï¿½n de SMB a zanja principal (3 Block),,,,"138,0",mtr,12.600,1.738.800,,,,,,,,,,,,,,"138,0",,,1380.0,"0,0",0.0
+90,910,Conexiï¿½n de barra de Bushing MT de IDT,,,,"10,0",mtr,140.000,1.400.000,,,,,,,,,,,,,,"5,0",,"5,0",100.0,"0,0",0.0
+91,920,PV Plant side MV Terminations RMU 240,,,"90,0","138,0",mtr,12.600,1.738.800,,,,,,,,,,,,,,,,,0.0,"228,0",0.0
+92,930,Cable termination of abone cable at inverter end+scb end,,,"880,0","10,0",mtr,140.000,1.400.000,,,,,,,,,,,,"480,0",,,"176,0",,6560.0,"234,0",0.0
